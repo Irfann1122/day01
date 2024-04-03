@@ -1,0 +1,13 @@
+th,td{
+    color:red;
+    border:2px solid black;
+    }
+    .hello{
+      color:red;
+      border:2px solid black;
+      width:25%;
+      background-color: yellow;
+      margin-left:50px;
+      padding-left:100px;
+    }
+    #heading3{color:green}
